@@ -25,11 +25,9 @@ You can close the window at any time by clicking the titlebar close button on th
 
 Controls
 ------------------------------
-KEY			|	FUNCTION
-------------------------------
-Escape		|	Closes application.
-R			|	Generate new maze of same size.
-Left Arrow	|	Decreases horizontal maze size, and generates a new maze.
-Right Arrow	|	Increases horizontal maze size, and generates a new maze.
-Up Arrow	|	Increases vertical maze size, and generates a new maze.
-Down Arrow	|	Decreases vertical maze size, and generates a new maze.
+Escape:	Closes application.
+R:	Generate new maze of same size.
+Left Arrow:	Decreases horizontal maze size, and generates a new maze.
+Right Arrow:	Increases horizontal maze size, and generates a new maze.
+Up Arrow:	Increases vertical maze size, and generates a new maze.
+Down Arrow:	Decreases vertical maze size, and generates a new maze.
