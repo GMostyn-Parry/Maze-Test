@@ -9,6 +9,9 @@ A small program to generate a randomly generated maze of a passed size, using a 
 The mazes do not have entry or exit points.\
 The size must be odd on both axes, but does not have to be uniform.
 
+# Demonstration Video
+https://youtu.be/832alACTv4s
+
 # Controls
 - **Escape**: Closes application.
 - **R**: Generate new maze of same size.
